@@ -3,6 +3,7 @@ bower_components/
 config/runtime.json
 npm-debug.log
 .git/
+.idea/
 .DS_Store
 *~
 ._*
