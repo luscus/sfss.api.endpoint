@@ -4,6 +4,7 @@ config/runtime.json
 npm-debug.log
 .git/
 .idea/
+coverage/
 .DS_Store
 *~
 ._*
