@@ -25,7 +25,7 @@
     "gulp-concat": "*",
     "gulp-jsdoc-to-markdown": "*",
     "gulp-rename": "*",
-    "gulp-util": "*",
+    "gulp-util": ">=3.0.8",
     "gulpfile.basics": "*",
     "mocha": "*"
   },
