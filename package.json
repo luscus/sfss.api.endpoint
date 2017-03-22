@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "node.extend": "*",
-    "q": "*",
+    "q": ">=1.5.0",
     "sfss.lib": "*"
   },
   "devDependencies": {
