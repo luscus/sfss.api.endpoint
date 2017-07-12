@@ -20,7 +20,7 @@
     "sfss.lib": "*"
   },
   "devDependencies": {
-    "chai": "*",
+    "chai": ">=4.1.0",
     "gulp": "*",
     "gulp-concat": "*",
     "gulp-jsdoc-to-markdown": "*",
