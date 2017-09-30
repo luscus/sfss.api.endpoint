@@ -23,7 +23,7 @@
     "chai": "*",
     "gulp": "*",
     "gulp-concat": "*",
-    "gulp-jsdoc-to-markdown": "*",
+    "gulp-jsdoc-to-markdown": ">=1.2.2",
     "gulp-rename": "*",
     "gulp-util": "*",
     "gulpfile.basics": "*",
