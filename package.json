@@ -27,7 +27,7 @@
     "gulp-rename": "*",
     "gulp-util": "*",
     "gulpfile.basics": "*",
-    "mocha": "*"
+    "mocha": ">=6.1.2"
   },
   "repository": {
     "type": "git",
