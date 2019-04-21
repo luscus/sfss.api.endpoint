@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "chai": "*",
-    "gulp": "*",
+    "gulp": ">=4.0.1",
     "gulp-concat": "*",
     "gulp-jsdoc-to-markdown": "*",
     "gulp-rename": "*",
